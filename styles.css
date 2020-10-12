@@ -40,7 +40,7 @@
 }
 .tel {
   padding-left: 10px;
-  color: rgb(128, 128, 128);
+  color: rgb(218, 218, 218);
   text-decoration: none;
 }
 .mail-title {
@@ -52,7 +52,7 @@
 }
 .mail {
   padding-left: 10px;
-  color: rgb(128, 128, 128);
+  color: rgb(218, 218, 218);
 }
 .tech-skills-container {
   padding: 20px;
@@ -62,7 +62,6 @@
 }
 .tech-skill-title {
   margin-bottom: 10px;
-
   font-style: normal;
   font-weight: 500;
   font-size: 26px;
@@ -118,7 +117,14 @@
   padding-top: 70px;
   padding-bottom: 70px;
 }
-
+.about-me-container {
+  margin-bottom: 50px;
+}
+.about-me-information {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
 .about-me-position {
   font-size: 14px;
   font-weight: 700;
