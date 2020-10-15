@@ -118,7 +118,7 @@
   padding-bottom: 70px;
 }
 .about-me-container {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 .about-me-information {
   font-size: 16px;
@@ -149,7 +149,7 @@
   margin-left: 17px;
 }
 .projects-container {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 .project-link {
   color: #595959;
@@ -192,7 +192,7 @@
   color: darkorange;
 }
 .work-container {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 .work-date {
   color: #a8a8a8;
@@ -229,7 +229,7 @@
   line-height: 24px;
 }
 .education-container {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 .name-first {
   color: black;
